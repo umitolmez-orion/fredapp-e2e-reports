@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","136393","auth-002-splash-routes-to-landing-screen","Maestro","2026-11-02","passed","2026-11-02","regression/authentication","Functional","",""
